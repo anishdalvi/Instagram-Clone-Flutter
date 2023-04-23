@@ -1,26 +1,8 @@
 # Instagram Clone
 
-A completely Responsive Instagram App- Works on Android, iOS & Web! 
 
-## Features
-- Responsive Instagram UI
-- Email & Password Authentication
-- Share Posts with Caption
-- Display Posts with Caption
-- Like & Comment on Posts
-- Search Users
-- Follow Users
-- Display User Posts, Followers & Following
-- EVERYTHING REAL TIME
-- Sign Out
-
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/BBccK1zTgxw) 
-
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/instagram-flutter-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
-</p>
-
+## YouTube Video Link
+(https://youtu.be/BBccK1zTgxw) 
 
 ## Installation
 After cloning this repository, migrate to ```instagram-flutter-clone``` folder. Then, follow the following steps:
@@ -32,7 +14,6 @@ After cloning this repository, migrate to ```instagram-flutter-clone``` folder. 
 Then run the following commands to run your app:
 ```bash
   flutter pub get
-  open -a simulator (to get iOS Simulator)
   flutter run
   flutter run -d chrome --web-renderer html (to see the best output)
 ```
@@ -44,5 +25,5 @@ Then run the following commands to run your app:
     
 ## Feedback
 
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
+If you have any feedback, please reach out to me at no.way.please@gmail.com
 
